@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: black;
+}
+header{
+    height:50px;
+    margin: 20px;
+    background-color: black;
+}
+header div{
+    display: block;
+}
+header div a {
+     padding: 10px;
+    border: none;
+     color: aliceblue;
+}
+.logo{
+    font-size: 40px;
+    color: red;
+    font-weight: 700;
+}
