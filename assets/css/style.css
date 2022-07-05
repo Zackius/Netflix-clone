@@ -22,3 +22,28 @@ header div a {
     color: red;
     font-weight: 700;
 }
+#main{
+    background:url(/img/19.jpg);
+    height: 700px;
+    color: whites;
+}
+#main div{
+    color:white;
+ padding-top: 300px;
+}
+#movie-slides{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(36, 33, 33);}
+ .movie-container{
+    display: flex;
+    flex-direction: row;
+ }   
+ .movie-base{
+    padding: 20px;
+ }
+.movie-img{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
